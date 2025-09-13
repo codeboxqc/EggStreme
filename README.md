@@ -9,6 +9,8 @@ EggStreme is a Windows console tool that scans processes and network connections
  hashes.txt 
  regex.txt 
 
+ https://github.com/codeboxqc/EggStreme/releases/download/exe/EggStreme.7z
+
  this file ARE in the realase to get exe to run it load content
 
 ---
